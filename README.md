@@ -7,21 +7,21 @@
 
 <h2>✅ Participations</h2>
 
-<p>1. 15 December 2024</p>
+<p>1. </p>
 
 ```
 Codeforces Round 993 (Div. 4)
 ```
 
 
-<p>2. 02 January 2025</p>
+<p>2. </p>
 
 ```
 New Year Coding Contest - 2025 - UIUCPC
 ```
 
 
-<p>3. 09 January 2025</p>
+<p>3. </p>
 
 ```
 CODECLYPSE 2025 - Intra UIU Programming Contest
